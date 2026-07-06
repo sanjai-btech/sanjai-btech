@@ -1,152 +1,152 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Sanjai+V;B.Tech+Information+Technology+Student;AI+Developer+%7C+Full+Stack+Developer;Java+%7C+Python+%7C+React+Developer;Building+AI-Powered+Solutions;Open+to+Software+Development+Internships)](https://git.io/typing-svg)
+
+# 👋 Welcome to My GitHub Profile
+
+I'm **Sanjai V**, a **B.Tech Information Technology** student at **Sri Manakula Vinayagar Engineering College (SMVEC)**.
+
+I enjoy building intelligent software solutions using **Artificial Intelligence, Full Stack Development, Web Technologies, and Modern Software Engineering**. My passion lies in solving real-world problems through innovative technology while continuously learning and improving my skills.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Information Technology Student (3rd Year)
+- 💻 Passionate Full Stack & AI Developer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Building modern web applications with React and modern technologies
+- 🚀 Love developing AI-powered solutions that solve real-world problems
+- 🌱 Currently learning Advanced Full Stack Development, Cloud Technologies & System Design
+- 💼 Looking for Software Development & AI Internship Opportunities
+- 🎯 Goal: To become an AI Engineer & Full Stack Software Developer
+
+---
+
+## 💻 Tech Stack
+
 <div align="center">
 
-# Hi 👋, I'm Sanjai V
+### 👨‍💻 Programming Languages
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Web+Developer;B.Tech+Information+Technology+Student;Open+Source+Enthusiast;Building+Solutions+That+Make+an+Impact" alt="Typing SVG" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript&perline=6" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=sanjai-btech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind,bootstrap&perline=7" />
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,vercel&perline=5" />
+</p>
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&perline=6" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Knowledge_Graph-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Featured Projects
 
-🎓 Third Year B.Tech Information Technology Student
+### 🌾 Krishi Mithra
 
-💡 Passionate about Artificial Intelligence, Full Stack Development, and solving real-world problems.
+An AI-powered Smart Agriculture Platform that empowers farmers with crop recommendations, disease detection, pest identification, weather insights, and AI-based farming assistance.
 
-🚀 Building AI-powered applications and scalable web solutions.
-
-🌱 Currently learning advanced Full Stack Development, AI, Cloud Technologies, and System Design.
-
-💼 Looking for Internship Opportunities in Software Development, AI, and Full Stack Engineering.
-
-⚡ "Every project is an opportunity to learn something new."
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,c,cpp,mysql,mongodb,firebase,git,github,tailwind,bootstrap,vscode,figma,vercel,linux&perline=7"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 Krishi Mithra
-
-AI-powered smart agriculture platform providing:
-
-- 🌱 Crop Recommendation
-- ☁ Weather Insights
-- 🤖 AI Assistance
-- 📊 Farmer Dashboard
-- 📱 Responsive Web Interface
+**Tech Stack:** React, TypeScript, Supabase, TensorFlow, OpenCV, Knowledge Graph, Vercel
 
 🔗 **Live:** https://krishi-mithra-ruddy.vercel.app/
 
 ---
 
-## 🧠 AI Emotional Intelligence System
+### 🧠 AI Emotional Intelligence System
 
-An AI-powered workplace emotional intelligence platform featuring:
+An intelligent workplace emotional monitoring platform capable of emotion detection, burnout prediction, productivity analysis, mood tracking, AI coaching, and secure analytics dashboards.
 
-- Emotion Detection
-- Burnout Prediction
-- Productivity Analysis
-- Mood Tracking
-- AI Coaching
-- Secure Dashboard
+**Tech Stack:** Python, Machine Learning, AI, React, Data Analytics
 
 ---
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-Modern animated developer portfolio featuring:
+A premium responsive developer portfolio showcasing my projects, technical skills, certifications, achievements, and contact information with modern UI/UX.
 
-- Projects
-- Skills
-- Resume
-- Experience
-- Contact
-- Responsive Design
+**Tech Stack:** React, TypeScript, Tailwind CSS, Vite, Vercel
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-🏅 Web Development
-
-🏅 Full Stack Development
-
-🏅 Artificial Intelligence
-
-🏅 Git & GitHub
-
-🏅 Continuous Learning through Online Platforms
+- 🌐 Web Development Certification
+- 💻 Full Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ☕ Java Programming
+- 🐍 Python Programming
+- 🔧 Git & GitHub
+- 🎨 Frontend Development
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- 🤖 Artificial Intelligence
-- ⚛ React.js
-- ▲ Next.js
-- ☁ Cloud Deployment
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚛️ React & Next.js Development
+- ☁️ Cloud Deployment
+- 🌐 Full Stack Development
 - 📊 Data Structures & Algorithms
-- 🚀 Full Stack Development
-- 💼 Internship Preparation
+- 🚀 Building AI-powered Products
+- 💼 Preparing for Software Development Internships
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjai-btech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai-btech&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanjai-btech&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai-btech&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🛠️ Tools & Technologies
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,firebase,vercel,netlify,npm,linux&perline=10"/>
+<img src="https://streak-stats.demolab.com?user=sanjai-btech&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjai-btech&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -162,42 +162,28 @@ Modern animated developer portfolio featuring:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/sanjai-btech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🏅 Achievements
+## 👀 Profile Views
 
-✨ AI Enthusiast
+<p align="center">
 
-✨ Full Stack Developer
+<img src="https://komarev.com/ghpvc/?username=sanjai-btech&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-✨ Problem Solver
-
-✨ Passionate Learner
-
-✨ Open Source Contributor
+</p>
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
-<div align="center">
-
-## "Dream. Build. Learn. Repeat."
-
-*"Success comes from continuously improving yourself and creating solutions that make people's lives better."*
-
-</div>
+> **"Code with purpose. Learn continuously. Build innovative solutions that create real-world impact."**
 
 ---
 
-<div align="center">
-
-## 🚀 Let's Build Something Amazing Together!
-
-⭐ If you like my projects, don't forget to star the repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-</div>
+⭐ **Thank you for visiting my profile! I'm always excited to collaborate on innovative projects, contribute to open source, and connect with fellow developers. Feel free to explore my repositories and connect with me! 🚀**

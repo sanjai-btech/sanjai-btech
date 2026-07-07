@@ -88,6 +88,8 @@ A premium responsive developer portfolio showcasing my projects, technical skill
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Vite, Vercel
 
+🔗 **Live:** https://sanjai-v-portfolio.vercel.app/
+
 ---
 
 ## 🏆 Certifications
